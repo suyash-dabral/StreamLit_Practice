@@ -9,8 +9,8 @@ A simple **To-Do List** web app built using **Streamlit**. This app allows users
 - Uses **Streamlit session state** for state management
 
 ## 🖼 Screenshots
-![To-Do List Screenshot 1](screenshot1.png)
-![To-Do List Screenshot 2](screenshot2.png)
+![To-Do List Screenshot 1](streamlit-1.png)
+![To-Do List Screenshot 2](streamlit-2.png)
 
 ## 📦 Installation & Usage
 1. Clone the repository:
